@@ -4,7 +4,7 @@ This is a simple web application built with Flask and MySQL that allows users to
 
 # Website
 
-You can visit the live application here: [My Deployed Flask App](httphttp://rishabhkashyap01.pythonanywhere.com/)
+You can visit the live application here: httphttp://rishabhkashyap01.pythonanywhere.com/
 
 # Requirements
 
