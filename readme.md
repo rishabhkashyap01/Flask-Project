@@ -2,6 +2,10 @@
 
 This is a simple web application built with Flask and MySQL that allows users to register, log in, and view their dashboard. It demonstrates the  use of Flask, MySQL integration, and user authentication using Flask-WTF forms.
 
+# Website
+
+You can visit the live application here: [My Deployed Flask App](httphttp://rishabhkashyap01.pythonanywhere.com/)
+
 # Requirements
 
 Before you begin, ensure you have met the following requirements:
