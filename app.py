@@ -2,7 +2,7 @@ import bcrypt
 import os
 # 	•	Used for hashing passwords securely.
 import mysql.connector
-# Connects the application to a MySQL database.
+# Connects the application to a MySQL database and run it
 from flask import Flask, flash, redirect, render_template, request, session, url_for
 """ 
 	.   Flask: Initializes the Flask application.
