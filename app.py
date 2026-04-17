@@ -15,7 +15,8 @@ from flask import Flask, flash, redirect, render_template, request, session, url
 
 """
 from flask_wtf import FlaskForm
-# Simplifies form handling in Flask applications.
+
+# Simplifies form handling in Flask applications and handles error
 from mysql.connector import Error
 # Used for error handling during MySQL operations.
 from wtforms import PasswordField, StringField, SubmitField
