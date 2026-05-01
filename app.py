@@ -152,7 +152,6 @@ def login():
             
             cursor = connection.cursor()
             
-            # Creates a cursor object to interact with the database.
             # A cursor is used to execute SQL commands and fetch results from the database.
             # connection.cursor() establishes a session for executing queries.
 	        #The cursor acts as a pointer for operations within the database connection.
